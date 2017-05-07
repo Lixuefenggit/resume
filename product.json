@@ -3,11 +3,7 @@
         "title": "严选商城首页",
         "desc": "使用的技术有:Ajax、Session、JQuery、DOM、HTML、CSS等",
         "imgName": "2",
-<<<<<<< HEAD
-        "demoAddress": "前台首页.png",
-=======
-        "demoAddress": "2.png",
->>>>>>> 077b7344776d19cd42f8e016f0f2d4d4ac582164
+        "demoAddress": "1.png",
         "codeAddress": "laravel"
     }
 ]
